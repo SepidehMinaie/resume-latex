@@ -33,7 +33,7 @@
 %----------------------------------------------------------------------------------------
 
 \def \name#1{\def\@name{#1}} % Defines the \name command to set name
-\def \@name {} % Sets \@name to empty by default
+\def \@name {Sepideh Minaie} % Sets \@name to empty by default
 
 \def \addressSep {$\diamond$} % Set default address separator to a diamond
 
